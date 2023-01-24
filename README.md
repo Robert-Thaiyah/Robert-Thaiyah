@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robert-thaiyah" alt="robert-thaiyah" /></a> </p>
 
-- 🔭 I’m currently working on [Testimonial Grid Section](https://github.com/Robert-Thaiyah/testimonials-grid-section)
+- 🔭 I’m currently working on [Chat App Illustration](https://github.com/Robert-Thaiyah/chat-app-css-illustration)
 
 - 🌱 I’m currently learning **HTML, CSS and Javascript**
 
